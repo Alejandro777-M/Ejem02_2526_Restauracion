@@ -13,10 +13,12 @@
 - final
 
    `ole`
+  ---
 
   Enlace a la web del centro [GF](https://www.gregoriofer.com)
   
   Imagen
+
    ![Logo](https://gregoriofer.com/logo.jpg)
 
 | Identificador | Nombre alumno |
