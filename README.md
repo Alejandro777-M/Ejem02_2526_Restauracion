@@ -7,7 +7,7 @@
 1. Lista
 2. liston
 3. lit
-Here's a sentence with a footnote. [^1]
+Aqui es donde te lleva el pie de pagina [^1]
 
 - desarollo
 - final
