@@ -53,4 +53,6 @@ I need to highlight these <mark>very important words</mark>
 
 Modificación realizada en local.
 
+Pagina con los comandos: https://www.markdownguide.org/cheat-sheet/
+
 [^1]: Este es el pie de pagina.
