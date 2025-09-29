@@ -35,3 +35,7 @@
   "age": 25
 }
 ```
+
+	Here's a sentence with a footnote. [^1]
+
+[^1]: Este es el pie de pagina.
