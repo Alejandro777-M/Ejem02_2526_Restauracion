@@ -52,6 +52,6 @@ Tareas a realizar
 - [ ] Contact the media
 
 
-I need to highlight these ==very important words== .
+I need to highlight these == very important words == .
 
 [^1]: Este es el pie de pagina.
