@@ -26,3 +26,12 @@
 | 1 | Victor |
 | 2 | Jorge |
 | 2 | Laura |
+
+
+
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
