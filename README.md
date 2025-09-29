@@ -7,7 +7,8 @@
 1. Lista
 2. liston
 3. lit
-Aqui es donde te lleva el pie de pagina. [^1]
+   
+Palabra que te lleva al pie de pagina. [^1]
 
 - desarollo
 - final
