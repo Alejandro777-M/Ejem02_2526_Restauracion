@@ -28,7 +28,7 @@
 | 2 | Laura |
 
 
-
+```
 {
   "firstName": "John",
   "lastName": "Smith",
