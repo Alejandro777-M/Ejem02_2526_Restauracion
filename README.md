@@ -7,7 +7,7 @@
 1. Lista
 2. liston
 3. lit
-
+Here's a sentence with a footnote. [^1]
 
 - desarollo
 - final
@@ -36,6 +36,6 @@
 }
 ```
 
-	Here's a sentence with a footnote. [^1]
+	
 
 [^1]: Este es el pie de pagina.
