@@ -37,6 +37,19 @@ Palabra que te lleva al pie de pagina. [^1]
 }
 ```
 
+Git
+: Control de versiones utilizadas
+
+IDE
+: Eclipse para desarrollar proyectos
+
+:sob:
+
+
+Tareas a realizar
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
 	
 
 [^1]: Este es el pie de pagina.
