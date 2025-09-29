@@ -37,12 +37,6 @@ Palabra que te lleva al pie de pagina. [^1]
 }
 ```
 
-Git
-: Control de versiones utilizadas
-
-IDE
-: Eclipse para desarrollar proyectos
-
 :sob:
 
 
@@ -51,7 +45,13 @@ Tareas a realizar
 - [ ] Update the website
 - [ ] Contact the media
 
+I need to highlight these <mark>very important words</mark>
 
-I need to highlight these ==very important words==.
+<dl>
+  <dt><mark>Término 1</mark></dt>
+  <dd>Definición del término 1.</dd>
+  
+
+
 
 [^1]: Este es el pie de pagina.
